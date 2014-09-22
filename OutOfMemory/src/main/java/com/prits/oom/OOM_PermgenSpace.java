@@ -2,6 +2,12 @@ package com.prits.oom;
 
 import javassist.ClassPool;
 
+/**
+ * 
+ * This sample program generates Out Of Memory - Permgen space error
+ * @author Pritesh Patel
+ *
+ */
 public class OOM_PermgenSpace {
 
 	public static void main(String[] args) throws Exception {

@@ -3,6 +3,12 @@ package com.prits.oom;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * This sample program generate Out Of Memory - heap space error.
+ * 
+ * @author Pritesh Patel
+ *
+ */
 public class OOM_HeapSpace {
 
 	static class Key {
